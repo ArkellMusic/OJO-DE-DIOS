@@ -1,0 +1,15 @@
+[
+  {
+    "id": "tres_cantos_414496",
+    "name": "M-607 @ M-104",
+    "city": "Tres Cantos",
+    "provider": "WeatherBug",
+    "lat": 40.601,
+    "lon": -3.708,
+    "feedType": "image",
+    "url": "https://camerasapi-trffc.weatherbug.net/media/trffc/v2/img/small?id=414496&key=0b8c8a885fd0f70a1cfd9dfd9165947d28be8bd7ab5a84fd82d128e220f31d92&rate=10000&system=weatherbug-web",
+    "snapshotUrl": "https://camerasapi-trffc.weatherbug.net/media/trffc/v2/img/small?id=414496&key=0b8c8a885fd0f70a1cfd9dfd9165947d28be8bd7ab5a84fd82d128e220f31d92&rate=10000&system=weatherbug-web",
+    "sourceKind": "public_traffic",
+    "sourceUrl": "https://www.weatherbug.com/traffic-cam/tres_cantos-madrid-sp/414496"
+  }
+]

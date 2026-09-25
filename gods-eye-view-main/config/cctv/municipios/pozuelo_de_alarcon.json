@@ -1,0 +1,15 @@
+[
+  {
+    "id": "pozuelo_de_alarcon_414313",
+    "name": "M-40 @ A-6",
+    "city": "Pozuelo de Alarcón",
+    "provider": "WeatherBug",
+    "lat": 40.435,
+    "lon": -3.813,
+    "feedType": "image",
+    "url": "https://camerasapi-trffc.weatherbug.net/media/trffc/v2/img/small?id=414313&key=0b8c8a885fd0f70a1cfd9dfd9165947d28be8bd7ab5a84fd82d128e220f31d92&rate=10000&system=weatherbug-web",
+    "snapshotUrl": "https://camerasapi-trffc.weatherbug.net/media/trffc/v2/img/small?id=414313&key=0b8c8a885fd0f70a1cfd9dfd9165947d28be8bd7ab5a84fd82d128e220f31d92&rate=10000&system=weatherbug-web",
+    "sourceKind": "public_traffic",
+    "sourceUrl": "https://www.weatherbug.com/traffic-cam/pozuelo_de_alarcon-madrid-sp/414313"
+  }
+]
