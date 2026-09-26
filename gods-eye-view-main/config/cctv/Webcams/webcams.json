@@ -1,0 +1,1244 @@
+{
+  "Madrid": [
+    {
+      "nombre": "sol",
+      "descripcion": "Puerta del Sol - Tío Pepe",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/comunidad-de-madrid/madrid/puerta-del-sol-tio-pepe.html"
+    },
+    {
+      "nombre": "callao",
+      "descripcion": "Plaza del Callao",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/comunidad-de-madrid/madrid/madrid-plaza-del-callao.html"
+    },
+    {
+      "nombre": "calle mayor",
+      "descripcion": "Puerta del Sol - Calle Mayor",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/comunidad-de-madrid/madrid/puerta-del-sol-calle-mayor.html"
+    },
+    {
+      "nombre": "calle Alcalá",
+      "descripcion": "Calle Alcalá",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/comunidad-de-madrid/madrid/calle-alcala.html"
+    },
+    {
+      "nombre": "aeropuerto",
+      "descripcion": "Tráfico aéreo Madrid (Paracuellos de Jarama)",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/comunidad-de-madrid/paracuellos-de-jarama/trafico-aereo-skyline-madrid.html"
+    },
+    {
+      "nombre": "Torrelaguna",
+      "descripcion": "Plaza Mayor con la Iglesia de Santa María Magdalena",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/comunidad-de-madrid/torrelaguna/iglesia-de-santa-maria-magdalena.html"
+    },
+    {
+      "nombre": "Zarzalejo",
+      "descripcion": "Vista panorámica de Zarzalejo",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/comunidad-de-madrid/madrid/zarzalejo.html"
+    }
+  ],
+  "Andalucía": {
+    "Almería": [
+      {
+        "nombre": "Pulpí - Playa de los Cocedores",
+        "descripcion": "Vista de la Playa de los Cocedores, también conocida como Cala Cerrada",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/almeria/pulpi-playa-de-los-cocedores.html"
+      },
+      {
+        "nombre": "Varadero Balerma",
+        "descripcion": "Vista de la Playa de Poniente desde el Varadero con el pueblo de Balerma al fondo",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/almeria/balerma.html"
+      },
+      {
+        "nombre": "Playa de Mojácar",
+        "descripcion": "Vista panorámica de la playa de Mojácar en la provincia de Almería",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/almeria/playa-de-mojacar.html"
+      },
+      {
+        "nombre": "Mojácar - Plaza Nueva",
+        "descripcion": "Mojácar, vistas a la Plaza Nueva y al mirador",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/almeria/mojacar-plaza-nueva.html"
+      },
+      {
+        "nombre": "Mojácar",
+        "descripcion": "Vista panorámica de la playa de Mojácar, Almería",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/almeria/mojacar.html"
+      },
+      {
+        "nombre": "Almerimar",
+        "descripcion": "Vista de la playa de Almerimar",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/almeria/almerimar.html"
+      }
+    ],
+    "Cádiz": [
+      {
+        "nombre": "Chiclana de la Frontera - Playa de la Barrosa",
+        "descripcion": "Chiclana de la Frontera, vista desde la Playa de la Barrosa",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/chiclana-de-la-frontera-playa-de-la-barrosa.html"
+      },
+      {
+        "nombre": "Barbate - Playa del Carmen",
+        "descripcion": "Vista del Paseo Marítimo y Playa del Carmen de Barbate",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/barbate-playa-del-carmen.html"
+      },
+      {
+        "nombre": "Medina Sidonia - Plaza del Ayuntamiento",
+        "descripcion": "Vista de Plaza del Ayuntamiento en Medina Sidonia, Cádiz",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/medina-sidonia-plaza-del-ayuntamiento.html"
+      },
+      {
+        "nombre": "Playa Santa María del Mar",
+        "descripcion": "Vista de la Playa Santa María del Mar en Cádiz",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/playa-santa-maria-del-mar.html"
+      },
+      {
+        "nombre": "Villamartín - Plaza del Ayuntamiento",
+        "descripcion": "Vista de la Plaza del Ayuntamiento de Villamartín en Cádiz",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/villamartin-plaza-del-ayuntamiento.html"
+      },
+      {
+        "nombre": "Prado del Rey",
+        "descripcion": "Vista a la Plaza de la Constitución y la Iglesia de Nuestra Señora del Carmen",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/prado-del-rey.html"
+      },
+      {
+        "nombre": "Cádiz - Santa María del Mar",
+        "descripcion": "Cádiz, vista de Santa María del Mar",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/cadiz-santa-maria-del-mar.html"
+      },
+      {
+        "nombre": "Grazalema",
+        "descripcion": "Vista de la Plaza de España en Grazalema",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/grazalema.html"
+      },
+      {
+        "nombre": "Puerto de Conil de la Frontera",
+        "descripcion": "Vista a la bocana de entrada al puerto pesquero y deportivo de la ciudad",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/puerto-conil-de-la-frontera.html"
+      },
+      {
+        "nombre": "Salina Santa María de Jesús - Chiclana",
+        "descripcion": "Vista de los esteros de la Salina Santa María de Jesús en Chiclana",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/salina-santa-maria-de-jesus-chiclana.html"
+      },
+      {
+        "nombre": "El Bosque",
+        "descripcion": "Vista de la Plaza del Ayuntamiento en la localidad gaditana de El Bosque",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/el-bosque.html"
+      },
+      {
+        "nombre": "Panorama de Villamartín",
+        "descripcion": "Vista a la Avenida de la Feria y panorámica de la localidad",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/panorama-villamartin.html"
+      },
+      {
+        "nombre": "Medina Sidonia",
+        "descripcion": "Vista de la Plaza de España de Medina Sidonia",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/medina-sidonia.html"
+      },
+      {
+        "nombre": "Chiclana de la Frontera - Río Iro",
+        "descripcion": "Vista de la ribera del Iro en Chiclana de la Frontera",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/chiclana-de-la-frontera-fiume-iro.html"
+      },
+      {
+        "nombre": "Benalup-Casas Viejas",
+        "descripcion": "Vistas a la Plaza de la Revolución de 1933",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/benalup-casas-viejas.html"
+      },
+      {
+        "nombre": "Bornos",
+        "descripcion": "Vista de los jardines renacentistas del Palacio de los Ribera, Cádiz",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/bornos.html"
+      },
+      {
+        "nombre": "Puerto de Sancti Petri",
+        "descripcion": "Vista del paseo marítimo y puerto de Sancti Petri",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/puerto-de-sancti-petri.html"
+      },
+      {
+        "nombre": "Playa de Zahara de los Atunes",
+        "descripcion": "Vista de la entrada principal de la playa de Zahara de los Atunes",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/playa-zahara-de-los-atunes.html"
+      },
+      {
+        "nombre": "Puerto Sherry - El Puerto de Santa María",
+        "descripcion": "Vista de la playa asfáltica de Puerto Sherry, en El Puerto de Santa María",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/puerto-sherry-el-puerto-de-santa-maria.html"
+      },
+      {
+        "nombre": "Alcalá de los Gazules",
+        "descripcion": "Vista de la Plaza de la Alameda De la Cruz con la Iglesia de La Victoria al fondo",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/alcala-de-los-gazules.html"
+      },
+      {
+        "nombre": "Villaluenga del Rosario",
+        "descripcion": "Vista en Villaluenga del Rosario en la provincia de Cádiz",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/villaluenga-del-rosario.html"
+      },
+      {
+        "nombre": "Olvera",
+        "descripcion": "Vista de la Plaza de Andalucía en Olvera",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/olvera.html"
+      },
+      {
+        "nombre": "Playa del Aculadero - El Puerto de Santa María",
+        "descripcion": "Vista de la Ensenada y la Playa del Aculadero, en El Puerto de Santa María",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/playa-del-aculadero-el-puerto-de-santa-maria.html"
+      },
+      {
+        "nombre": "Setenil de las Bodegas",
+        "descripcion": "Vista panorámica a la localidad de Setenil de las Bodegas, en la provincia de Cádiz",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/setenil-de-las-bodegas.html"
+      },
+      {
+        "nombre": "Grazalema - Plaza de los Asomaderos",
+        "descripcion": "Vista de Plaza de los Asomaderos en Grazalema",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/grazalema-plaza-de-los-asomaderos.html"
+      },
+      {
+        "nombre": "El Gastor",
+        "descripcion": "Vista de la plaza del Ayuntamiento de El Gastor, en la provincia de Cádiz",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/el-gastor-cadiz.html"
+      },
+      {
+        "nombre": "Paterna de Rivera",
+        "descripcion": "Vista de la Plaza de la Constitución con la Iglesia de Nuestra Señora de la Inhiesta al fondo",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/paterna-de-rivera.html"
+      },
+      {
+        "nombre": "Benamahoma",
+        "descripcion": "Vista de la Plaza de las Huertas en Benamahoma",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/benamahoma.html"
+      },
+      {
+        "nombre": "Algodonales",
+        "descripcion": "Panorámica sobre Algodonales en Cádiz",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/cadiz/algodonales.html"
+      }
+    ],
+    "Casares": [
+      {
+        "nombre": "Casares - Playa Ancha",
+        "descripcion": "Casares, vista de Playa Ancha en Andalucía",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/casares/playa-ancha.html"
+      }
+    ],
+    "Granada": [
+      {
+        "nombre": "Alhambra de Granada",
+        "descripcion": "Vista del complejo del palacio de la Alhambra, el monumento más visitado de España",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/granada/alhambra-de-granada.html"
+      },
+      {
+        "nombre": "Playa de San Cristóbal - Almuñécar",
+        "descripcion": "Almuñécar, vista de Playa de San Cristóbal",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/granada/almunecar.html"
+      },
+      {
+        "nombre": "Almuñécar - Playa de San Cristóbal",
+        "descripcion": "Vista de la Playa de Almuñécar desde el chiringuito La Caña",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/granada/playa-de-san-cristobal-almunecar.html"
+      },
+      {
+        "nombre": "La Mamola - Granada",
+        "descripcion": "Vista de la playa de La Mamola, en Granada",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/granada/la-mamola-granada.html"
+      },
+      {
+        "nombre": "Granada - Playa de La Mamola",
+        "descripcion": "Vista de la zona deportiva de la playa de La Mamola",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/granada/la-mamola.html"
+      }
+    ],
+    "Huelva": [
+      {
+        "nombre": "Islantilla",
+        "descripcion": "Vista de la playa de Islantilla en Andalucía",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/huelva/islantilla.html"
+      },
+      {
+        "nombre": "Golf de Islantilla",
+        "descripcion": "Vista del Campo de Golf de Islantilla",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/huelva/islantilla-golf.html"
+      }
+    ],
+    "Málaga": [
+      {
+        "nombre": "Marbella",
+        "descripcion": "Vista del puerto y paseo marítimo de Marbella",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/malaga/marbella.html"
+      },
+      {
+        "nombre": "Benalmádena",
+        "descripcion": "Mariposario, vista del Templo Budista",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/malaga/benalmadena.html"
+      },
+      {
+        "nombre": "Montejaque",
+        "descripcion": "Vista de la plaza de la Constitución",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/malaga/montejaque.html"
+      },
+      {
+        "nombre": "Marbella - Puerto deportivo",
+        "descripcion": "Vista del puerto deportivo de Marbella",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/malaga/marbella-puerto-deportivo.html"
+      },
+      {
+        "nombre": "Panorama de Montejaque",
+        "descripcion": "Vista panorámica de Montejaque en Andalucía",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/malaga/panorama-montejaque.html"
+      },
+      {
+        "nombre": "Benalauría",
+        "descripcion": "Vista panorámica de Benalauría, Málaga",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/malaga/benalauria.html"
+      },
+      {
+        "nombre": "Panorama de Benalmádena",
+        "descripcion": "Vista panorámica de Benalmádena en Andalucía",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/malaga/panorama-de-benalmadena.html"
+      }
+    ],
+    "Sevilla": [
+      {
+        "nombre": "Sevilla - Plaza de San Francisco",
+        "descripcion": "Sevilla, vista desde Plaza de San Francisco",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/sevilla/siviglia-plaza-san-francisco.html"
+      },
+      {
+        "nombre": "Giralda - Sevilla",
+        "descripcion": "Vista de la Giralda en Sevilla",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/sevilla/giralda.html"
+      },
+      {
+        "nombre": "Sevilla - Puente de Triana",
+        "descripcion": "Vista del Puente de Triana sobre el Río Guadalquivir",
+        "url": "https://www.skylinewebcams.com/es/webcam/espana/andalucia/sevilla/siviglia-puente-de-triana.html"
+      }
+    ]
+  },
+  "Castilla-La Mancha": [
+    {
+      "nombre": "Toledo - Puente de San Martín",
+      "descripcion": "Puente sobre el Tajo, Toledo",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/castiglia-la-mancia/toledo/toledo-puente-di-san-martin.html"
+    }
+  ],
+  "Aragón": [
+    {
+      "nombre": "Huesca",
+      "descripcion": "Fuente de las Musas en la Plaza de Navarra",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/aragon/huesca/huesca.html"
+    },
+    {
+      "nombre": "Anento",
+      "descripcion": "Vista panorámica sobre Anento, Zaragoza",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/aragon/zaragoza/anento.html"
+    }
+  ],
+  "Asturias": [
+    {
+      "nombre": "La Peral - Parque Natural de Somiedo",
+      "descripcion": "Mirador del Príncipe en La Peral, Somiedo (Patrimonio de la Humanidad)",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/asturias/somiedo/la-peral-parque-natural-de-somiedo.html"
+    },
+    {
+      "nombre": "Salinas",
+      "descripcion": "Vista oeste de la playa de Salinas",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/asturias/salinas/playa.html"
+    }
+  ],
+  "Canarias": [
+    {
+      "nombre": "Playa de Los Cristianos - Tenerife",
+      "descripcion": "Playa de Los Cristianos",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/playa-los-cristianos.html"
+    },
+    {
+      "nombre": "Playa Las Vistas - Tenerife",
+      "descripcion": "Playa de arena blanca en la costa de Arona",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/playa-las-vistas.html"
+    },
+    {
+      "nombre": "Playa del Duque - Tenerife",
+      "descripcion": "Playa del Duque en Costa Adeje",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/playa-del-duque.html"
+    },
+    {
+      "nombre": "Costa Adeje - Playa La Pinta",
+      "descripcion": "Playa la Pinta en Tenerife",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/playa-la-pinta.html"
+    },
+    {
+      "nombre": "El Médano surf y kitesurf - Tenerife",
+      "descripcion": "Playa de El Médano, uno de los mejores lugares para surfistas",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/surf-kitesurf-medano.html"
+    },
+    {
+      "nombre": "Playa de Fañabé - Tenerife",
+      "descripcion": "Playa de Fañabé en Costa Adeje",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/playa-de-fanabe.html"
+    },
+    {
+      "nombre": "Playa de Troya - Las Américas - Tenerife",
+      "descripcion": "Playa de Troya en Costa Adeje",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/playa-troya.html"
+    },
+    {
+      "nombre": "Puerto de la Cruz - Tenerife",
+      "descripcion": "Histórico Muelle Pesquero",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/puerto-de-la-cruz-tenerife.html"
+    },
+    {
+      "nombre": "Playa del Duque - El Beril",
+      "descripcion": "Playa del Duque norte en El Beril, Costa Adeje",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/playa-del-duque-el-beril.html"
+    },
+    {
+      "nombre": "Guía de Isora - Playa San Juan",
+      "descripcion": "Playa San Juan en Guía de Isora",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/guia-de-isora.html"
+    },
+    {
+      "nombre": "Catamarán Royal Delfin - Tenerife",
+      "descripcion": "Avistamiento de delfines y ballenas en la costa de Adeje",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/catamarano-royal-delfin.html"
+    },
+    {
+      "nombre": "Playa Grande de Las Canteras - Gran Canaria",
+      "descripcion": "Playa Grande de las Canteras desde Las Palmas",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/las-palmas-gran-canaria/playa-grande-las-canteras.html"
+    },
+    {
+      "nombre": "Playa de El Médano - Canarias",
+      "descripcion": "Playa y paseo marítimo de El Médano",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/playa-de-el-medano.html"
+    },
+    {
+      "nombre": "Bahía de Los Cristianos",
+      "descripcion": "Bahía de Los Cristianos, complejo Costamar, Tenerife Sur",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/bahia-los-cristianos.html"
+    },
+    {
+      "nombre": "Puerto de la Cruz - Lago Martiánez",
+      "descripcion": "Lago Martiánez en Puerto de la Cruz",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/puerto-de-la-cruz-lago-martianez.html"
+    },
+    {
+      "nombre": "Puerto de la Cruz - Playa San Telmo",
+      "descripcion": "Paseo marítimo de San Telmo a las piscinas Martianez",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/puerto-de-la-cruz-playa-san-telmo.html"
+    },
+    {
+      "nombre": "Yaiza - Playa Blanca",
+      "descripcion": "Playa Blanca en Yaiza, Lanzarote",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/las-palmas/yaiza-playa-blanca.html"
+    },
+    {
+      "nombre": "Puerto del Carmen - Playa Los Pocillos",
+      "descripcion": "Puerto del Carmen y Playa Los Pocillos en Tías, Lanzarote",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/las-palmas-gran-canaria/puerto-del-carmen-playa-los-pocillos.html"
+    },
+    {
+      "nombre": "Patalavaca - Anfi del Mar",
+      "descripcion": "Playa de Anfi del Mar en Gran Canaria",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/las-palmas-gran-canaria/patalavaca.html"
+    },
+    {
+      "nombre": "Grandes Playas de Corralejo",
+      "descripcion": "Grandes Playas Corralejo en La Oliva, Fuerteventura",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/corralejo/grandes-playas-corralejo.html"
+    },
+    {
+      "nombre": "Costa Adeje - Tenerife",
+      "descripcion": "Playa Paraíso y Playa Las Galgas",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/costa-adeje.html"
+    },
+    {
+      "nombre": "Puerto de la Cruz - Punta Brava",
+      "descripcion": "Playa Jardín en Puerto de la Cruz",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/punta-brava.html"
+    },
+    {
+      "nombre": "Santiago del Teide - Puerto de Santiago",
+      "descripcion": "Puerto de Santiago y Playa La Arena",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/santiago-del-teide-puerto-de-santiago.html"
+    },
+    {
+      "nombre": "Las Palmas - Playa de Las Canteras",
+      "descripcion": "Zona de Peña la Vieja en Gran Canaria",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/las-palmas-gran-canaria/playa-las-canteras.html"
+    },
+    {
+      "nombre": "Fuerteventura - Corralejo",
+      "descripcion": "Playa Corralejo Viejo",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/corralejo/fuerteventura-corralejo.html"
+    },
+    {
+      "nombre": "San Cristóbal de La Laguna - Punta del Hidalgo",
+      "descripcion": "Piscina Natural de Punta del Hidalgo (Patrimonio de la Humanidad)",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/punta-del-hidalgo.html"
+    },
+    {
+      "nombre": "Mogán - Playa de Puerto Rico",
+      "descripcion": "Playa de Puerto Rico en Mogán",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/las-palmas-gran-canaria/mogan-playa-de-puerto-rico.html"
+    },
+    {
+      "nombre": "Puerto Rico de Gran Canaria - Playa de Amadores",
+      "descripcion": "Playa de Amadores en Puerto Rico de Gran Canaria",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/las-palmas-gran-canaria/puerto-rico-de-gran-canaria-playa-amadores.html"
+    },
+    {
+      "nombre": "Playa de Las Teresitas - Tenerife",
+      "descripcion": "Playa de Las Teresitas desde San Andrés, Santa Cruz de Tenerife",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/playa-de-las-teresitas.html"
+    },
+    {
+      "nombre": "Arona - Playa de Las Américas",
+      "descripcion": "Playa de Las Américas desde Parque Santiago IV",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/playa-de-las-americas.html"
+    },
+    {
+      "nombre": "Santa Cruz de Tenerife - Playa de Benijo",
+      "descripcion": "Acantilados de Playa de Benijo",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/santa-cruz-de-tenerife-playa-de-benijo.html"
+    },
+    {
+      "nombre": "Santa Cruz de La Palma - La Palma",
+      "descripcion": "Plaza de España en Santa Cruz de La Palma",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/santa-cruz-de-la-palma-la-palma.html"
+    },
+    {
+      "nombre": "Mogán - Playa Taurito",
+      "descripcion": "Playa Taurito en Mogán, Gran Canaria",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/las-palmas-gran-canaria/mogan-playa-taurito.html"
+    },
+    {
+      "nombre": "Arguineguín - Playa de El Perchel",
+      "descripcion": "Playa de El Perchel en Arguineguín, Mogán",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/las-palmas-gran-canaria/arguineguin-playa-de-el-perchel.html"
+    },
+    {
+      "nombre": "Santa Cruz de Tenerife - Torre 1 - Cabo Llanos",
+      "descripcion": "Auditorio Adán Martín, Parque Marítimo",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/santa-cruz-de-tenerife-torre-1-cabo-llanos.html"
+    },
+    {
+      "nombre": "Mogán - Playa del Cura",
+      "descripcion": "Playa del Cura en Mogán",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/las-palmas-gran-canaria/mogan-playa-del-cura.html"
+    },
+    {
+      "nombre": "La Caleta - Costa Adeje",
+      "descripcion": "Playa La Enramada en La Caleta",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/la-caleta-costa-adeje.html"
+    },
+    {
+      "nombre": "Arona - Parque Santiago",
+      "descripcion": "Playa del Camisón desde Parque Santiago III",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/arona-parque-santiago.html"
+    },
+    {
+      "nombre": "Golf Costa Adeje",
+      "descripcion": "Partidos de golf en vivo desde el Golf Costa Adeje",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/golf-costa-adeje.html"
+    },
+    {
+      "nombre": "Santiago del Teide",
+      "descripcion": "Playa Chica en Puerto de Santiago, Los Gigantes",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/santiago-del-teide.html"
+    },
+    {
+      "nombre": "El Médano - Pronóstico del tiempo",
+      "descripcion": "Localidad turística de El Médano, Tenerife",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/el-medano.html"
+    },
+    {
+      "nombre": "La Orotava - Tenerife",
+      "descripcion": "Plaza del Ayuntamiento de La Orotava",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/la-orotava.html"
+    },
+    {
+      "nombre": "Tenerife - Buenavista Golf",
+      "descripcion": "Campo de Buenavista Golf, Buenavista del Norte",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/tenerife-buenavista-golf.html"
+    },
+    {
+      "nombre": "San Sebastián de la Gomera",
+      "descripcion": "Zona del puerto de San Sebastián de la Gomera",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/san-sebastian-de-la-gomera.html"
+    },
+    {
+      "nombre": "Parque Rural de Teno - Masca",
+      "descripcion": "Mirador de Hilda, caserío y Barranco de Masca",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/masca-valley-tenerife.html"
+    },
+    {
+      "nombre": "Costa Adeje - Playa de Torviscas",
+      "descripcion": "Playa de Torviscas en Costa Adeje",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/costa-adeje-playa-torviscas.html"
+    },
+    {
+      "nombre": "Santiago del Teide - Santa Cruz de Tenerife",
+      "descripcion": "Centro de Santiago del Teide",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/santiago-del-teide-centro.html"
+    },
+    {
+      "nombre": "La Cícer en Las Canteras - El tiempo",
+      "descripcion": "Playa de Surf de Las Canteras",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/las-palmas-gran-canaria/la-cicer-las-canteras.html"
+    },
+    {
+      "nombre": "Parador del Teide - Tenerife",
+      "descripcion": "Volcán Teide desde Tenerife (Patrimonio de la Humanidad)",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/volcano-teide.html"
+    },
+    {
+      "nombre": "San Cristóbal de La Laguna - Bajamar",
+      "descripcion": "Piscinas naturales y playa de Bajamar (Patrimonio de la Humanidad)",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/san-cristobal-de-la-laguna-bajamar.html"
+    },
+    {
+      "nombre": "Mogán",
+      "descripcion": "Vista de la playa de Mogán",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/las-palmas-gran-canaria/mogan.html"
+    },
+    {
+      "nombre": "Puerto del Carmen - Islas Canarias",
+      "descripcion": "Playa Grande en Puerto del Carmen, Lanzarote",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/las-palmas-gran-canaria/puerto-del-carmen.html"
+    },
+    {
+      "nombre": "Acantilados de Los Gigantes - Tenerife",
+      "descripcion": "Puerto y acantilados de Los Gigantes",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/los-gigantes.html"
+    },
+    {
+      "nombre": "Santa Cruz de Tenerife - Plaza de España",
+      "descripcion": "Plaza de España en Santa Cruz de Tenerife",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/plaza-de-espana.html"
+    },
+    {
+      "nombre": "La Palma - El Charco Azul de San Andrés y Sauces",
+      "descripcion": "El Charco Azul de San Andrés y Sauces, La Palma",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/la-palma-el-charco-azul-de-san-andres-y-sauces.html"
+    },
+    {
+      "nombre": "Callao Salvaje - Playa de Ajabo",
+      "descripcion": "Playa de Ajabo en Callao Salvaje",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/callao-salvaje.html"
+    },
+    {
+      "nombre": "San Cristóbal de La Laguna - Tenerife",
+      "descripcion": "Calle Obispo Rey Redondo (Patrimonio de la Humanidad)",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/san-cristobal-de-la-laguna.html"
+    },
+    {
+      "nombre": "Costa Adeje - Playa del Bobo",
+      "descripcion": "Playa del Bobo en Costa Adeje",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/costa-adeje-playa-del-bobo.html"
+    },
+    {
+      "nombre": "Garachico - Tenerife",
+      "descripcion": "Piscinas naturales en el noreste de Tenerife",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/garachico.html"
+    },
+    {
+      "nombre": "Playa Melenara - Taliarte",
+      "descripcion": "Playa Melenara en Telde, Las Palmas",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/las-palmas/taliarte-playa-melenara.html"
+    },
+    {
+      "nombre": "El Médano - Playa El Cabezo",
+      "descripcion": "Playa El Cabezo en El Médano",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/playa-el-cabezo.html"
+    },
+    {
+      "nombre": "Playa de Santiago - La Gomera",
+      "descripcion": "Playa de Santiago, municipio de Alajeró",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/la-gomera.html"
+    },
+    {
+      "nombre": "Los Realejos",
+      "descripcion": "Vista panorámica desde el norte de Tenerife",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/los-realejos.html"
+    },
+    {
+      "nombre": "Arrecife - Charco de Ginés",
+      "descripcion": "Laguna Charco de Ginés en Lanzarote",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/las-palmas/lanzarote-arrecife.html"
+    },
+    {
+      "nombre": "Mogán - Puerto Rico",
+      "descripcion": "Puerto deportivo en Puerto Rico, Mogán",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/las-palmas-gran-canaria/mogan-puerto-rico.html"
+    },
+    {
+      "nombre": "Tacoronte - Mesa del Mar",
+      "descripcion": "Piscinas Naturales de Mesa del Mar",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/tacoronte-mesa-del-mar.html"
+    },
+    {
+      "nombre": "San Bartolomé de Tirajana",
+      "descripcion": "Playa de San Agustín",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/las-palmas/san-bartolome-de-tirajana.html"
+    },
+    {
+      "nombre": "Tenerife - Puerto de la Cruz",
+      "descripcion": "Paseo, playa y Lago Martianez",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/tenerife-puerto-de-la-cruz.html"
+    },
+    {
+      "nombre": "Caleta de Sebo - Lanzarote",
+      "descripcion": "Puerto de La Graciosa, Teguise",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/las-palmas/lanzarote-caleta-de-sebo.html"
+    },
+    {
+      "nombre": "Santa Cruz de Tenerife - Avenida Tres de Mayo",
+      "descripcion": "Vista panorámica desde el Hotel Silken Atlántida",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/avenida-tres-de-mayo.html"
+    },
+    {
+      "nombre": "Vista panorámica de Puerto de la Cruz",
+      "descripcion": "Vista panorámica de Puerto de la Cruz, Tenerife",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/tour-puerto-de-la-cruz.html"
+    },
+    {
+      "nombre": "Charco Verde - Los Llanos de Aridane",
+      "descripcion": "Playa de Charco Verde, La Palma",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/los-llanos-de-aridane-charco-verde.html"
+    },
+    {
+      "nombre": "Los Llanos de Aridane - La Palma",
+      "descripcion": "Centro de Llanos de Aridane",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/los-llanos-de-aridane-la-palma.html"
+    },
+    {
+      "nombre": "El Médano - Playa La Tejita",
+      "descripcion": "Playa La Tejita y Montaña Roja",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/el-medano-playa-la-tejita.html"
+    },
+    {
+      "nombre": "El Hierro - Timijiraque",
+      "descripcion": "Puerto de La Estaca, Timijiraque",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/el-hierro-timijiraque.html"
+    },
+    {
+      "nombre": "Piscinas Naturales de La Fajana - La Palma",
+      "descripcion": "Piscinas Naturales de La Fajana en Barlovento",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/la-palma-piscinas-de-la-fajana.html"
+    },
+    {
+      "nombre": "Arrecife - Lanzarote",
+      "descripcion": "Vista de Arrecife en Lanzarote",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/las-palmas/arrecife.html"
+    },
+    {
+      "nombre": "La Palma",
+      "descripcion": "Playa de Tazacorte, La Palma",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/la-palma.html"
+    },
+    {
+      "nombre": "Tijarafe - Mirador El Time",
+      "descripcion": "Valle de Aridane, Cumbre Vieja y Tazacorte",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/tijarafe.html"
+    },
+    {
+      "nombre": "Santiago del Teide - Los Gigantes",
+      "descripcion": "Playa Los Guios en Los Gigantes",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/santiago-del-teide-los-gigantes.html"
+    },
+    {
+      "nombre": "Puerto de la Cruz",
+      "descripcion": "Vista panorámica de Puerto de la Cruz, Santa Cruz de Tenerife",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/puerto-de-la-cruz.html"
+    },
+    {
+      "nombre": "Los Llanos de Aridane - Playa de Puerto Naos",
+      "descripcion": "Playa de Puerto Naos, La Palma",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/los-llanos-de-aridane-isla-de-la-palma.html"
+    },
+    {
+      "nombre": "Santa Cruz de La Palma",
+      "descripcion": "Playa de Santa Cruz de La Palma",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/santa-cruz-de-la-palma.html"
+    },
+    {
+      "nombre": "Los Llanos de Aridane",
+      "descripcion": "Valle de Aridane, Castillo de La Virgen",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/los-llanos-de-aridane.html"
+    },
+    {
+      "nombre": "La Orotava - Jardines Victoria",
+      "descripcion": "Jardines Victoria en La Orotava",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/la-orotava-jardines-victoria.html"
+    },
+    {
+      "nombre": "Playa de El Médano - Islas Canarias",
+      "descripcion": "Playa de El Médano, Santa Cruz de Tenerife",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/playa-el-medano.html"
+    },
+    {
+      "nombre": "Visita panorámica de Garachico",
+      "descripcion": "Costa norte de Tenerife",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/panorama-garachico.html"
+    },
+    {
+      "nombre": "El Pinar - El Hierro",
+      "descripcion": "Puerto de La Restinga, El Hierro",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/el-hierro-el-pinar.html"
+    },
+    {
+      "nombre": "Buenavista del Norte - Islas Canarias",
+      "descripcion": "Barranco de Masca",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/buenavista-del-norte.html"
+    },
+    {
+      "nombre": "El Hierro - La Frontera",
+      "descripcion": "Piscinas naturales de La Maceta, Roques de Salmor",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/el-hierro.html"
+    },
+    {
+      "nombre": "Plaza de la Candelaria - Santa Cruz de Tenerife",
+      "descripcion": "Plaza de la Candelaria",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/plaza-de-la-candelaria.html"
+    },
+    {
+      "nombre": "Lanzarote - Playa de las Cucharas",
+      "descripcion": "Playa de Las Cucharas, paraíso del surf",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/las-palmas/playa-las-cucharas.html"
+    },
+    {
+      "nombre": "Karting Club Tenerife - Las Chafiras",
+      "descripcion": "Pista de go karts de Arona",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/karting-club-tenerife.html"
+    },
+    {
+      "nombre": "Mogán - Playa la Lajilla",
+      "descripcion": "Playa la Lajilla en Mogán",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/las-palmas-gran-canaria/mogan-playa-la-lajilla.html"
+    },
+    {
+      "nombre": "Candelaria - Playa de Punta Larga",
+      "descripcion": "Playa de Punta Larga en Candelaria",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/candelaria-playa-de-las-caletillas.html"
+    },
+    {
+      "nombre": "Lanzarote - Isla de la Graciosa",
+      "descripcion": "Caleta de Sebo, Isla de la Graciosa",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/las-palmas/lanzarote-isla-de-la-graciosa.html"
+    },
+    {
+      "nombre": "Marina del Sur - Las Galletas",
+      "descripcion": "Puerto deportivo de Las Galletas",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/las-galletas.html"
+    },
+    {
+      "nombre": "El Sauzal - Tenerife",
+      "descripcion": "Teide y Puerto de la Cruz desde La Casa del Vino",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/el-sauzal.html"
+    },
+    {
+      "nombre": "Candelaria",
+      "descripcion": "Muelle y paseo de Candelaria, con la Basílica al fondo",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/candelaria.html"
+    },
+    {
+      "nombre": "Candelaria - Plaza de la Patrona de Canarias",
+      "descripcion": "Plaza de la Patrona de Canarias",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/canarias/santa-cruz-de-tenerife/candelaria-plaza-patrona-canarias.html"
+    }
+  ],
+  "Cantabria": [
+    {
+      "nombre": "Santander - Playa del Sardinero",
+      "descripcion": "Playa del Sardinero en Santander",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/cantabria/santander/playa-del-sardinero.html"
+    },
+    {
+      "nombre": "Suances - Playa de la Concha",
+      "descripcion": "Isla de Los Conejos y desembocadura de la Ría San Martín",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/cantabria/suances/playa-de-la-concha.html"
+    },
+    {
+      "nombre": "Torrelavega",
+      "descripcion": "Plaza Pequeñeces y el Ayuntamiento",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/cantabria/torrelavega/torrelavega.html"
+    },
+    {
+      "nombre": "Suances - Playa de Los Locos",
+      "descripcion": "Playa de Los Locos, Reserva Natural de Surf",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/cantabria/suances/playa-de-los-locos.html"
+    },
+    {
+      "nombre": "Peñarrubia",
+      "descripcion": "Panorámica del monte de Peñarrubia",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/cantabria/penarrubia/penarrubia-cantabria.html"
+    },
+    {
+      "nombre": "Santillana del Mar",
+      "descripcion": "Colegiata de Santa Juliana",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/cantabria/santillana-del-mar/santillana-del-mar-cantabria.html"
+    },
+    {
+      "nombre": "Tresviso",
+      "descripcion": "Vista panorámica de Tresviso, Picos de Europa",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/cantabria/tresviso/panorama-tresviso.html"
+    },
+    {
+      "nombre": "Bahía de Suances",
+      "descripcion": "Desembocadura de la ría de San Martín y entrada al puerto",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/cantabria/suances/bahia-de-suances.html"
+    },
+    {
+      "nombre": "Playa Loredo",
+      "descripcion": "Playa de Loredo en Cantabria",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/cantabria/laredo/laredo-beach.html"
+    },
+    {
+      "nombre": "Panorama de Santander",
+      "descripcion": "Vista panorámica de Santander",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/cantabria/santander/panorama.html"
+    },
+    {
+      "nombre": "Playa de Loredo",
+      "descripcion": "Vista panorámica de la playa de Loredo",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/cantabria/laredo/playa-de-loredo.html"
+    }
+  ],
+  "Castilla y León": [
+    {
+      "nombre": "Frías - Burgos",
+      "descripcion": "Vista panorámica de la ciudad de Frías, Burgos",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/castilla-y-leon/burgos/frias.html"
+    },
+    {
+      "nombre": "Villafranca del Bierzo",
+      "descripcion": "Plaza Mayor, Iglesia de San Francisco y castillo",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/castilla-y-leon/leon/villafranca-del-bierzo.html"
+    },
+    {
+      "nombre": "Área de Ski San Isidro - León",
+      "descripcion": "Estación de esquí de San Isidro",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/castilla-y-leon/leon/estacion-invernal-y-de-montana-san-isidro.html"
+    },
+    {
+      "nombre": "Frías",
+      "descripcion": "Vista panorámica sobre el casco antiguo de Frías",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/castilla-y-leon/frias/frias.html"
+    },
+    {
+      "nombre": "Castillo de Villapadierna",
+      "descripcion": "Castillo de Villapadierna",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/castilla-y-leon/leon/castillo-de-villapadierna.html"
+    },
+    {
+      "nombre": "Riaño - Pico Yordas",
+      "descripcion": "Pico Yordas desde el municipio de Riaño",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/castilla-y-leon/leon/riano-y-pico-yordas.html"
+    }
+  ],
+  "Cataluña": [
+    {
+      "nombre": "Tour en Catamarán Tur Tur - Port Olímpic",
+      "descripcion": "Barcelona, costa y ciudad desde el catamarán",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/cataluna/barcelona/catamaran.html"
+    },
+    {
+      "nombre": "Calafell - Tarragona",
+      "descripcion": "Costa Dorada, Playa de Calafell",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/cataluna/tarragona/calafell.html"
+    },
+    {
+      "nombre": "Calella de Palafrugell",
+      "descripcion": "Pueblo marinero en la Costa Brava",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/cataluna/gerona/palafrugell.html"
+    },
+    {
+      "nombre": "Calella de Palafrugell - Costa Brava",
+      "descripcion": "Zona de les Planes i la Punta dels Forcats",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/cataluna/gerona/calella-de-palafrugell-costa-brava.html"
+    },
+    {
+      "nombre": "Lloret De Mar",
+      "descripcion": "Playa de Lloret de Mar en Costa Brava",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/cataluna/gerona/lloret-de-mar-costa-brava.html"
+    },
+    {
+      "nombre": "Girona - Puente Eiffel",
+      "descripcion": "Casas del río Onyar con el Puente rojo de Eiffel",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/cataluna/gerona/puente-eiffel.html"
+    },
+    {
+      "nombre": "Fornells de la Selva - Railcam",
+      "descripcion": "Línea ferroviaria de Fornells de la Selva",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/cataluna/gerona/fornells-de-la-selva.html"
+    },
+    {
+      "nombre": "Reus - Plaça Mercadal",
+      "descripcion": "Plaça Mercadal en Reus",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/cataluna/tarragona/reus.html"
+    },
+    {
+      "nombre": "Tossa de Mar",
+      "descripcion": "Vista panorámica de Tossa de Mar",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/cataluna/gerona/tossa-de-mar.html"
+    },
+    {
+      "nombre": "Platja d'Aro",
+      "descripcion": "Vista del centro de Platja d'Aro",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/cataluna/gerona/castell-platja-d-aro.html"
+    },
+    {
+      "nombre": "L'Ametlla De Mar",
+      "descripcion": "Vista panorámica de L'Ametlla De Mar",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/cataluna/tarragona/lametlla-de-mar.html"
+    },
+    {
+      "nombre": "Castelldefels",
+      "descripcion": "Vista sobre la playa de Castelldefels",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/cataluna/barcelona/castelldefels.html"
+    },
+    {
+      "nombre": "Sant Antoni de Calonge",
+      "descripcion": "Vista sobre la playa de Sant Antoni de Calonge",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/cataluna/gerona/sant-antoni-de-calonge.html"
+    },
+    {
+      "nombre": "Puerto de L'Ametlla de Mar",
+      "descripcion": "Vistas al puerto de L'Ametlla de Mar",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/cataluna/tarragona/porto-de-lametlla-de-mar.html"
+    }
+  ],
+  "Comunidad Valenciana": [
+    {
+      "nombre": "Benidorm - Playa de Poniente (sur)",
+      "descripcion": "Paseo marítimo de la Playa de Poniente",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/comunidad-valenciana/alicante/benidorm-playa-poniente-sur.html"
+    },
+    {
+      "nombre": "Benidorm - Playa de Levante - Alicante",
+      "descripcion": "Benidorm y la Playa de Levante",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/comunidad-valenciana/alicante/benidorm-playa-alicante.html"
+    },
+    {
+      "nombre": "Benidorm - Playa de Poniente - Puerto",
+      "descripcion": "Costa Blanca, Benidorm",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/comunidad-valenciana/alicante/benidorm-playa-poniente.html"
+    },
+    {
+      "nombre": "Calpe - Peñón de Ifach",
+      "descripcion": "Parque Natural del Peñón de Ifach y puerto deportivo de Calpe",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/comunidad-valenciana/alicante/calpe-penon-de-ifach.html"
+    },
+    {
+      "nombre": "Benidorm - Playa de Levante",
+      "descripcion": "Playa de Levante, Costa Blanca",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/comunidad-valenciana/alicante/benidorm-playa-levante.html"
+    },
+    {
+      "nombre": "Panorama de Benidorm",
+      "descripcion": "Skyline de la Costa Blanca, de Alicante a Calpe",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/comunidad-valenciana/alicante/benidorm-skyline.html"
+    },
+    {
+      "nombre": "Peñíscola",
+      "descripcion": "Playa con vistas al Castillo de Peñíscola",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/comunidad-valenciana/castellon/peniscola.html"
+    },
+    {
+      "nombre": "Alicante - Playa de la Almadraba",
+      "descripcion": "Bahía de Alicante, Castillo de Santa Bárbara",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/comunidad-valenciana/alicante/alicante-playa-almadraba.html"
+    },
+    {
+      "nombre": "Guardamar del Segura - Alicante",
+      "descripcion": "Playa de la Roqueta en Guardamar del Segura",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/comunidad-valenciana/alicante/guardamar-del-segura.html"
+    },
+    {
+      "nombre": "Santa Pola",
+      "descripcion": "Paseo marítimo y puerto deportivo de Santa Pola",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/comunidad-valenciana/santa-pola/paseo-maritimo.html"
+    },
+    {
+      "nombre": "Benicásim",
+      "descripcion": "Playa de Heliópolis y paseo marítimo de Benicasim",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/comunidad-valenciana/castellon/benicasim.html"
+    },
+    {
+      "nombre": "Villajoyosa",
+      "descripcion": "Vista panorámica de la costa de Villajoyosa",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/comunidad-valenciana/alicante/villajoyosa.html"
+    },
+    {
+      "nombre": "Oropesa del Mar",
+      "descripcion": "Playa Morro de Gos en Oropesa del Mar",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/comunidad-valenciana/castellon/oropesa-del-mar.html"
+    },
+    {
+      "nombre": "Vilafranca",
+      "descripcion": "Vista desde el casco antiguo de Vilafranca",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/comunidad-valenciana/castellon/vilafranca.html"
+    },
+    {
+      "nombre": "Elche - Arenales del Sol",
+      "descripcion": "Playa de Arenales del Sol, Costa Blanca",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/comunidad-valenciana/alicante/elche-arenales-del-sol.html"
+    }
+  ],
+  "Galicia": [
+    {
+      "nombre": "Malpica de Bergantiños",
+      "descripcion": "Zona portuaria de Malpica de Bergantiños",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/galicia/provincia-de-la-coruna/malpica-de-bergantinos.html"
+    },
+    {
+      "nombre": "Cristosende - Ribeira Sacra",
+      "descripcion": "Cañón del Sil y Ribeira Sacra desde Cristosende, A Teixeira",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/galicia/ourense/a-teixeira-canon-del-sil-ribeira-sacra.html"
+    },
+    {
+      "nombre": "Cabo Silleiro",
+      "descripcion": "Vista sobre Cabo Silleiro",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/galicia/pontevedra/cabo-silleiro.html"
+    }
+  ],
+  "Islas Baleares": [
+    {
+      "nombre": "Formentera - Playa de Es Pujols",
+      "descripcion": "Playa de Es Pujols, lado noroeste, Ibiza al fondo",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/islas-baleares/formentera/playa-es-pujols.html"
+    },
+    {
+      "nombre": "Playa de Es Pujols - Formentera",
+      "descripcion": "Lado este de la playa y paseo marítimo de Es Pujols",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/islas-baleares/formentera/playa-es-pujols-formentera.html"
+    },
+    {
+      "nombre": "Cala Vadella - Ibiza",
+      "descripcion": "Playa de Cala Vadella (sur)",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/islas-baleares/ibiza/cala-vadella-ibiza.html"
+    },
+    {
+      "nombre": "Formentera - Es Pujols",
+      "descripcion": "Playa de Es Pujols desde Chezz Gerdi restaurante",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/islas-baleares/formentera/es-pujols.html"
+    },
+    {
+      "nombre": "Palma de Mallorca - Playa de Can Pastilla",
+      "descripcion": "Can Pastilla en Playa de Palma",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/islas-baleares/mallorca/can-pastilla-playa-de-palma.html"
+    },
+    {
+      "nombre": "Mallorca - Bahía de Pollença",
+      "descripcion": "Playa Kite y Yoga en Sa Marina y Es Barcarès, Alcúdia",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/islas-baleares/mallorca/pollenca-bay.html"
+    },
+    {
+      "nombre": "La Savina - Formentera",
+      "descripcion": "Laguna Estany des Peix, cerca de Ses Illetes y Levante",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/islas-baleares/formentera/la-savina.html"
+    },
+    {
+      "nombre": "Ibiza - Cala Vadella",
+      "descripcion": "Playa y puerto natural de Cala Vadella",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/islas-baleares/ibiza/cala-vadella.html"
+    },
+    {
+      "nombre": "Sant Antoni de Portmany - Ibiza",
+      "descripcion": "Playa de Sant Antoni de Portmany",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/islas-baleares/ibiza/sant-antoni-de-portmany.html"
+    },
+    {
+      "nombre": "Mallorca - Alcudia",
+      "descripcion": "Bahía de Pollença con Port de Pollença al fondo",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/islas-baleares/mallorca/mallorca-alcudia.html"
+    },
+    {
+      "nombre": "Palma de Mallorca",
+      "descripcion": "Vista panorámica de Palma de Mallorca",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/islas-baleares/mallorca/panorama-de-palma-de-mallorca.html"
+    },
+    {
+      "nombre": "Mallorca - Playa Cala Agulla",
+      "descripcion": "Playa Cala Agulla en Mallorca",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/islas-baleares/mallorca/playa-cala-agulla.html"
+    },
+    {
+      "nombre": "Panorama de Ibiza",
+      "descripcion": "Vista panorámica de la costa de Ibiza",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/islas-baleares/ibiza/panorama.html"
+    }
+  ],
+  "País Vasco": [
+    {
+      "nombre": "Sestao - Puente Bizkaia y Ría de Bilbao",
+      "descripcion": "Desembocadura de la Ría de Bilbao con el Puente Bizkaia (Patrimonio de la Humanidad)",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/comunidad-autonoma-vasca/biscay/sestao-puente-bizkaia-ria-de-bilbao.html"
+    },
+    {
+      "nombre": "San Sebastián - Playa La Concha",
+      "descripcion": "Playa La Concha en San Sebastián",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/comunidad-autonoma-vasca/san-sebastian/playa-la-concha.html"
+    },
+    {
+      "nombre": "Lequeitio",
+      "descripcion": "Zona portuaria de Lequeitio",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/comunidad-autonoma-vasca/biscay/lequeitio.html"
+    },
+    {
+      "nombre": "Reserva de la Biosfera de Urdaibai",
+      "descripcion": "Vista de la Reserva de la Biosfera de Urdaibai",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/comunidad-autonoma-vasca/biscay/reserva-de-la-biosfera-de-urdaibai.html"
+    }
+  ],
+  "Región de Murcia": [
+    {
+      "nombre": "Bullas - Plaza de España",
+      "descripcion": "Plaza e iglesia de Nuestra Señora del Rosario de Bullas",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/region-de-murcia/murcia/bullas-plaza-de-espana.html"
+    },
+    {
+      "nombre": "La Manga del Mar Menor",
+      "descripcion": "Cala de Hierro y Faro de Cabo de Palos, Costa Cálida",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/region-de-murcia/murcia/manga-mar-menor.html"
+    },
+    {
+      "nombre": "Playa de La Carolina - Águilas",
+      "descripcion": "Playa de La Carolina, Águilas",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/region-de-murcia/murcia/playa-de-la-carolina-aguilas.html"
+    },
+    {
+      "nombre": "La Manga del Mar Menor - Cartagena",
+      "descripcion": "Playa turística de La Manga",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/region-de-murcia/murcia/manga-mar-menor-cartagena.html"
+    },
+    {
+      "nombre": "Águilas",
+      "descripcion": "Vista panorámica del puerto de Águilas",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/region-de-murcia/murcia/aguilas.html"
+    },
+    {
+      "nombre": "Mula - Casco antiguo",
+      "descripcion": "Ciudad vieja de Mula",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/region-de-murcia/murcia/mula.html"
+    },
+    {
+      "nombre": "Puerto deportivo de Águilas",
+      "descripcion": "Puerto deportivo de Águilas",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/region-de-murcia/murcia/marina-di-aguilas.html"
+    },
+    {
+      "nombre": "Águilas - Murcia",
+      "descripcion": "Club Náutico de Águilas",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/region-de-murcia/murcia/aguilas-yacht-club.html"
+    },
+    {
+      "nombre": "Calasparra - Plaza de la Corredera",
+      "descripcion": "Plaza y fuente de Calasparra",
+      "url": "https://www.skylinewebcams.com/es/webcam/espana/region-de-murcia/murcia/calasparra-plaza-de-la-corredera.html"
+    }
+  ]
+}
